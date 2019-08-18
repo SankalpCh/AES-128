@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Project/Main/Main.srcs/sources_1/new/AES.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AES
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Project/Main/Main.srcs/sim_1/new/test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test

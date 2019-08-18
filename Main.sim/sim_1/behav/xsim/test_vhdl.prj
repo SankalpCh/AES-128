@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Main.srcs/sources_1/new/AES.vhd" \
+"../../../../Main.srcs/sources_1/new/addroundkey.vhd" \
+"../../../../Main.srcs/sources_1/new/pack.vhd" \
+"../../../../Main.srcs/sources_1/new/cntrlr_dec.vhd" \
+"../../../../Main.srcs/sources_1/new/cntrlr_enc.vhd" \
+"../../../../Main.srcs/sources_1/new/inversemixcolumns.vhd" \
+"../../../../Main.srcs/sources_1/new/inverseshift.vhd" \
+"../../../../Main.srcs/sources_1/new/inversesubbytes.vhd" \
+"../../../../Main.srcs/sources_1/new/mixcolumns.vhd" \
+"../../../../Main.srcs/sources_1/new/roundkeys.vhd" \
+"../../../../Main.srcs/sources_1/new/roundkygn.vhd" \
+"../../../../Main.srcs/sources_1/new/shiftrows.vhd" \
+"../../../../Main.srcs/sources_1/new/subtrans.vhd" \
+"../../../../Main.srcs/sim_1/new/test.vhd" \
+
+# Do not sort compile order
+nosort

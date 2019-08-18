@@ -1,0 +1,28 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto 89d62d8813a442d6a8bf9ad8cf602ccb --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip -L xpm --snapshot test_behav xil_defaultlib.test -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package xil_defaultlib.arq
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.roundkeys [roundkeys_default]
+Compiling architecture behavioral of entity xil_defaultlib.roundkygn [roundkygn_default]
+Compiling architecture behavioral of entity xil_defaultlib.addroundkey [addroundkey_default]
+Compiling architecture behavioral of entity xil_defaultlib.subtrans [subtrans_default]
+Compiling architecture behavioral of entity xil_defaultlib.shiftrows [shiftrows_default]
+Compiling architecture behavioral of entity xil_defaultlib.mixcolumns [mixcolumns_default]
+Compiling architecture behavioral of entity xil_defaultlib.cntrlr_enc [cntrlr_enc_default]
+Compiling architecture behavioral of entity xil_defaultlib.inverseshift [inverseshift_default]
+Compiling architecture behavioral of entity xil_defaultlib.inversesubbytes [inversesubbytes_default]
+Compiling architecture behavioral of entity xil_defaultlib.inversemixcolumns [inversemixcolumns_default]
+Compiling architecture behavioral of entity xil_defaultlib.cntrlr_dec [cntrlr_dec_default]
+Compiling architecture behavioral of entity xil_defaultlib.AES [aes_default]
+Compiling architecture behavioral of entity xil_defaultlib.test
+Built simulation snapshot test_behav
